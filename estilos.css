@@ -11,7 +11,7 @@
     
     body{
     
-    background-image: url("fondo.jpg");
+    background-image: url("general.jpg");
     
     background-repeat: no-repeat;
     
@@ -20,7 +20,7 @@
     
     .contenido{
 
-        height: 280px;
+        height: 880px;
         
         width: 100%;
         
