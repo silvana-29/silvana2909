@@ -20,7 +20,7 @@
     
     .contenido{
 
-        height: 880px;
+        height: 1000px;
         
         width: 100%;
         
@@ -92,3 +92,13 @@ margin-right: 5px;
 background-image: url(imagensoc.jpg);
 
        } 
+
+.textoingles{
+
+text-align: justify;
+
+color: black;
+
+font-size: 20px;
+}
+
