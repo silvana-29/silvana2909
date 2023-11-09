@@ -20,9 +20,9 @@
     
     .contenido{
 
-        height: 500px;
+        height: 280px;
         
-        width: 400%;
+        width: 100%;
         
         position: absolute;
         
@@ -75,4 +75,20 @@ height: 440px;
 
         }
 
-        
+       .imagensoc{
+
+background-repeat: no-repeat;
+
+float: center;
+
+height: 5000px;
+
+width: 860px;
+
+margin-left: 5px;
+
+margin-right: 5px;
+
+background-image: url(imagensoc.jpg);
+
+       } 
